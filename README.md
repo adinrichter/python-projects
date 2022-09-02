@@ -2,7 +2,7 @@
 
 These are some projects written with Python utilizing various modules including tkinter, and sqlite3.
 
-- [File Transfer](File_Transfer/file_transfer.py)
+- [File Transfer](File%20Transfer/file_transfer.py)
 - [Text Game](Game/text_game.py)
 
 ## File Transfer
